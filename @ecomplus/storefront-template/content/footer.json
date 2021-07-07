@@ -1,0 +1,11 @@
+{
+  "payment_methods": {
+    "visa": true
+  },
+  "links_2": {
+    "list_categories": true
+  },
+  "links_1": {
+    "list_pages": true
+  }
+}
